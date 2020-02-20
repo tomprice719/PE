@@ -1,4 +1,5 @@
-# PE
+A solution to project Euler problem #495. This problem has a difficulty rating of 100%, which is the maximum.
+
 To run:
 python main.py
 
